@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: Solidworks Workshop
+subtitle: Modeling, Simulation and Stunning Animation
 tags: [books, shakespeare, test]
 ---
 
