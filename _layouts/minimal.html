@@ -14,9 +14,12 @@ common-js:
 
   <body>
 
-    <div role="main" class="container main-content">
+        {% include gtm_body.html %}
+
+        {% include nav.html %}
+
       {{ content }}
-    </div>
+    
 
     {% include footer-minimal.html %}
 

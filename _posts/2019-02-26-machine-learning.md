@@ -2,14 +2,67 @@
 layout: post
 title: Machine Learning with Python
 subtitle: machine learning
-bigimg: /img/path.jpg
+bigimg: /img/machine-learning.jpg
+permalink: concretesteelbond.com\python_workshop
 tags: [Machine Learning, Data Scientist]
 ---
+This course dives into the basics of machine learning using an approachable, and well-known programming language, Python.
+In this course, we will be reviewing two main components:
+First, you will be learning about the purpose of Machine Learning and where it applies to the real world.
+Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms.
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+In this course, you practice with real-life examples of Machine learning and see how it affects society in ways you may not have guessed!
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+By just putting in a few hours a week for the next few weeks, this is what you’ll get.
+1) New skills to add to your resume, such as regression, classification, clustering, sci-kit learn and SciPy
+2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
+3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.
+
+
+### Syllabus - What you will learn from this course
+
+**Introduction to Machine Learning**
+
+
+In this week, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. You’ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.
+
+
+**Regression**
+
+In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two
+different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
+
+
+**Classification**
+
+In this week, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you
+learn about pros and cons of each method, and different classification accuracy metrics.
+
+**Clustering**
+
+In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of
+weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
+
+
+**Recommender Systems**
+
+In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of
+recommendation engines, namely, content-based and collaborative filtering.
+
+
+**Final Project**
+
+In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
+
+
+
+
+### Top reviews from Machine Learning with Python
+
+The course was highly informative and very well presented. It was very easier to follow. Many complicated concepts were clearly explained. It improved my confidence with respect to programming skills.
+
+
+I am happy to have this online education, I drop out my nuclear engineering degree, I am happy to learn practical things with future... I work for IBM also...but I want to become a data scientis

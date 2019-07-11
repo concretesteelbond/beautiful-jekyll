@@ -22,10 +22,13 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Workshop:
-    - Python Workshop: ""
-    - Machine Learning Workshop: ""
-    - Solidworks Workshop: ""
+    - Python Workshop: "pythonworkshop"
+    - Machine Learning Workshop: "machinelearning"
+    - Solidworks Workshop: "solidworksworkshop"
     - Android App Development: ""
+  Tutorial :
+    - Python: "pythontutorial"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
